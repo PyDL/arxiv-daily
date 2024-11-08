@@ -1,5 +1,5 @@
 "Solar and Stellar AstroPhysics":
-  "Recent Papers": '"cat:astro-ph.SR"'
+  "Recent Papers": '"cat:astro-ph.SR AND solar"'
 
 "Space Physics":
    "Recent Papers": '"cat:physics.space-ph"'
