@@ -1,5 +1,5 @@
 "Solar Physics":
-  "Sun": '"Chromosphere"'
+  "Sun": '"Chromosphere"OR"Photosphere"OR"Flare"OR"Tachocline"OR"Magnetic Reconnection"OR"Coronal"'
 
 "Interplanetary Space":
   "Space": '"Coronal Mass Ejection"OR"Solar Energetic Particle"OR"Space Weather"OR"Geomagnetic Storm"'
