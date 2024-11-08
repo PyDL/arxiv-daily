@@ -1,5 +1,5 @@
 "Solar and Stellar AstroPhysics":
-  "Recent Papers": '"cat:astro-ph.SR AND ti:corona"'
+  "Recent Papers": '"cat:astro-ph.SR AND (abs:corona OR abs:chromosphere OR abs:photosphere OR abs:reconnection OR abs:wave OR abs:MHD OR abs:eruption OR abs:flare OR abs:CME or abs:jet OR abs:spicule OR abs:prominence OR abs:filament OR abs:sigmoid OR abs:extrapolation OR abs:SEP)"'
 
 "Space Physics":
    "Recent Papers": '"cat:physics.space-ph"'
