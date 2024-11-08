@@ -1,2 +1,5 @@
-"Solar and Interplanetary Physics":
-  "Corona": '"cat:astro-ph.SR"'
+"Solar and Stellar AstroPhysics":
+  "Recent Papers": '"cat:astro-ph.SR"'
+
+"Space Physics":
+   "Recent Papers": '"cat:physics.space-ph"'
