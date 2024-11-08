@@ -1,11 +1,11 @@
 # arxiv-daily
- Automated deployment @ 2024-11-08 10:01:17 Asia/Shanghai
+ Automated deployment @ 2024-11-08 10:06:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Interplanetary
 
-### CME
+### Coronal Mass Ejection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-06**|**TeV-scale particles and LHC events with dijet pairs**|Bogdan A. Dobrescu et.al.|[2411.04121v1](http://arxiv.org/abs/2411.04121v1)|null|
@@ -41,70 +41,70 @@
 
 ## Solar Physics
 
-### Chromosphere
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-04**|**HD 119130 b is not an "ultra-dense" sub-Neptune**|Joseph M. Akana Murphy et.al.|[2411.02518v1](http://arxiv.org/abs/2411.02518v1)|null|
-|**2024-11-03**|**An in-depth analysis of quiet-Sun IRIS Brightenings**|Llŷr Humphries et.al.|[2411.01560v1](http://arxiv.org/abs/2411.01560v1)|null|
-|**2024-11-01**|**On the Instrumental Discrepancies in Lyman-alpha Observations of Solar Flares**|Harry J. Greatorex et.al.|[2411.00736v1](http://arxiv.org/abs/2411.00736v1)|null|
-|**2024-10-21**|**Multimodal Flare Forecasting with Deep Learning**|Grégoire Francisco et.al.|[2410.16116v1](http://arxiv.org/abs/2410.16116v1)|null|
-|**2024-10-19**|**Transition Region Brightenings in a Moss Region and their Relation with Lower Atmospheric Dynamics**|Bhinva Ram et.al.|[2410.15124v1](http://arxiv.org/abs/2410.15124v1)|null|
-|**2024-10-19**|**Double-edged sword: the influence of tidal interaction on stellar activity in binaries**|Yuedan Ding et.al.|[2410.15039v1](http://arxiv.org/abs/2410.15039v1)|null|
-|**2024-10-18**|**The Radcliffe Wave as traced by young open clusters: Stellar parameters, activity indicators, and abundances of solar-type members of eight young clusters**|J. Alonso-Santiago et.al.|[2410.14373v2](http://arxiv.org/abs/2410.14373v2)|null|
-|**2024-10-15**|**How does the solar chromospheric activity look like under different inclination angles?**|G. Vanden Broeck et.al.|[2410.11335v1](http://arxiv.org/abs/2410.11335v1)|null|
-|**2024-10-11**|**Magnetic diffusion in Solar atmosphere produces measurable electric fields**|Tetsu Anan et.al.|[2410.09221v1](http://arxiv.org/abs/2410.09221v1)|null|
-|**2024-10-09**|**Strong Photospheric Heating Indicated by Fe I 6173 Å Line Emission During White-Light Solar Flares**|Samuel Granovsky et.al.|[2410.07440v1](http://arxiv.org/abs/2410.07440v1)|null|
-|**2024-10-08**|**No Maunder Minimum phase in HD 4915**|M. Flores-Trivigno et.al.|[2410.06142v1](http://arxiv.org/abs/2410.06142v1)|null|
-|**2024-10-06**|**Mg ii h&k spectra of an enhanced network region simulated with the MURaM-ChE code. Results using 1.5D synthesis**|P. Ondratschek et.al.|[2410.04594v1](http://arxiv.org/abs/2410.04594v1)|null|
-|**2024-10-05**|**Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis**|Sarah A. Jaeggli et.al.|[2410.04267v1](http://arxiv.org/abs/2410.04267v1)|null|
-|**2024-10-04**|**A long-duration superflare on the K giant HD 251108**|Hans Moritz Günther et.al.|[2410.03616v1](http://arxiv.org/abs/2410.03616v1)|null|
-|**2024-10-04**|**Potential Chromospheric Evaporation in A M-dwarf's Flare Triggered by Einstein Probe Mission**|J. Wang et.al.|[2410.03114v1](http://arxiv.org/abs/2410.03114v1)|null|
-|**2024-10-04**|**Chromospheric Mg I Emission Lines of Pre-Main-Sequence Stars**|Mai Yamashita et.al.|[2410.03087v1](http://arxiv.org/abs/2410.03087v1)|null|
-|**2024-10-03**|**Numerical experiments on granulation-generated two-fluid waves and flows in a solar magnetic carpet**|R. Niedziela et.al.|[2410.02577v1](http://arxiv.org/abs/2410.02577v1)|null|
-|**2024-09-26**|**Spatially Resolved Plasma Composition Evolution in a Solar Flare -- The Effect of Reconnection Outflow**|Andy S. H. To et.al.|[2409.18188v1](http://arxiv.org/abs/2409.18188v1)|null|
-|**2024-09-26**|**Reconstructing solar magnetic fields from historical observations X. Effect of magnetic field inclination and boundary structure on AIA 1600 Å emission**|Ismo Tähtinen et.al.|[2409.17771v1](http://arxiv.org/abs/2409.17771v1)|null|
-|**2024-09-24**|**Chromospheric modeling of the active M3V star G 80-21 with RH1.5D**|Shuai Liu et.al.|[2409.16028v1](http://arxiv.org/abs/2409.16028v1)|null|
-|**2024-09-24**|**Three-Minute Oscillations in Sunspot's Penumbrae and Superpenumbrae. Alfvénic or Sound?**|Andrei Chelpanov et.al.|[2409.15701v1](http://arxiv.org/abs/2409.15701v1)|null|
-|**2024-09-23**|**Time-Adaptive PIROCK Method with Error Control for Multi-Fluid and Single-Fluid MHD Systems**|Q. M. Wargnier et.al.|[2409.15552v1](http://arxiv.org/abs/2409.15552v1)|null|
-|**2024-09-17**|**A search for mode coupling in magnetic bright points**|Arthur Berberyan et.al.|[2409.11553v1](http://arxiv.org/abs/2409.11553v1)|null|
-|**2024-09-17**|**The Spectro-Polarimeter (SP) of the Andrei B. Severny Solar Tower Telescope (STT) at the Crimean Astrophysical Observatory: Optical Design and Implementation**|Alexander Kutsenko et.al.|[2409.11289v1](http://arxiv.org/abs/2409.11289v1)|null|
-|**2024-09-16**|**On the formation height of low-corona and chromospheric channels of the Atmospheric Imaging Assembly (AIA) on board the Solar Dynamics Observatory (SDO)**|Y. Sanjay et.al.|[2409.10451v1](http://arxiv.org/abs/2409.10451v1)|null|
-|**2024-09-16**|**A Model of the C IV $λλ$ 1548, 1550 Doublet Line in T Tauri Stars**|Thanawuth Thanathibodee et.al.|[2409.10361v1](http://arxiv.org/abs/2409.10361v1)|null|
-|**2024-09-11**|**XUV irradiation of young planetary atmospheres. Results from a joint XMM-Newton and HST observation of HIP67522**|A. Maggio et.al.|[2409.07229v2](http://arxiv.org/abs/2409.07229v2)|null|
-|**2024-09-10**|**Revealing the elusive companion of the red giant binary 2MASSJ05215658+4359220 from UV HST and Astrosat-UVIT data**|Luciana Bianchi et.al.|[2409.06906v1](http://arxiv.org/abs/2409.06906v1)|null|
-|**2024-09-10**|**Kink instability of flux ropes in partially-ionised plasmas**|Giulia Murtas et.al.|[2409.06901v1](http://arxiv.org/abs/2409.06901v1)|null|
-|**2024-09-09**|**Connectivity between the solar photosphere and chromosphere in a vortical structure. Observations of multi-phase, small-scale magnetic field amplification**|S. M. Díaz-Castillo et.al.|[2409.05769v1](http://arxiv.org/abs/2409.05769v1)|null|
-
-### Corona
+### Solar
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095v1](http://arxiv.org/abs/2411.04095v1)|null|
-|**2024-11-05**|**Effects of ultra-fast outflows on X-ray time lags in AGN**|Yerong Xu et.al.|[2411.02736v1](http://arxiv.org/abs/2411.02736v1)|null|
-|**2024-11-04**|**Energy Extraction from a Black Hole by a Strongly Magnetized Thin Accretion Disk**|Prasun Dhang et.al.|[2411.02515v1](http://arxiv.org/abs/2411.02515v1)|null|
-|**2024-11-04**|**Coronas and strongly self-absorbing C*-algebras**|Ilijas Farah et.al.|[2411.02274v1](http://arxiv.org/abs/2411.02274v1)|null|
-|**2024-11-04**|**Generation of fast magnetoacoustic waves in the corona by impulsive bursty reconnection**|Sripan Mondal et.al.|[2411.02180v1](http://arxiv.org/abs/2411.02180v1)|null|
-|**2024-11-03**|**Coronas and Callias type operators in coarse geometry**|Ulrich Bunke et.al.|[2411.01646v2](http://arxiv.org/abs/2411.01646v2)|null|
-|**2024-11-01**|**Cross-Field Diffusion Effects on Particle Transport in a Solar Coronal Flux Rope**|Edin Husidic et.al.|[2411.00738v1](http://arxiv.org/abs/2411.00738v1)|null|
-|**2024-11-01**|**Spatial distributions of EUV brightenings in the quiet-Sun**|C. J. Nelson et.al.|[2411.00467v1](http://arxiv.org/abs/2411.00467v1)|null|
-|**2024-11-01**|**Measurement of the time-integrated CP asymmetry in $D^{0}\rightarrow K^{0}_{S}K^{0}_{S}$ decays using Belle and Belle II data**|Belle et.al.|[2411.00306v2](http://arxiv.org/abs/2411.00306v2)|null|
-|**2024-10-30**|**Magnetic diagnostics of prominence eruptions through the Hanle effect of the He I 1083 nm line**|Momchil Molnar et.al.|[2410.23197v1](http://arxiv.org/abs/2410.23197v1)|null|
-|**2024-10-30**|**A multi-faceted view of the X-ray spectral variability in Seyfert galaxy Ark 120**|Lu-Xin Ren et.al.|[2410.23104v1](http://arxiv.org/abs/2410.23104v1)|null|
-|**2024-10-30**|**Model-independent measurement of $D^0$-$\overline{D}{}^0$ mixing parameters in $D^0\rightarrow K^0_{S}π^+π^-$ decays at Belle and Belle II**|Belle et.al.|[2410.22961v2](http://arxiv.org/abs/2410.22961v2)|null|
-|**2024-10-30**|**A New Particle Pusher with Hadronic Interactions for Modeling Multimessenger Emission from Compact Objects**|Minghao Zou et.al.|[2410.22781v1](http://arxiv.org/abs/2410.22781v1)|[link](https://github.com/Mynghao/pusher-library)|
-|**2024-10-28**|**Mapping the Sun's coronal magnetic field using the Zeeman effect**|Thomas A. Schad et.al.|[2410.21568v1](http://arxiv.org/abs/2410.21568v1)|null|
-|**2024-10-28**|**Connecting the X-ray/UV variability of Fairall 9 with NICER: A Possible Warm Corona**|Ethan R. Partington et.al.|[2410.21432v1](http://arxiv.org/abs/2410.21432v1)|null|
-|**2024-10-28**|**Generative Simulations of The Solar Corona Evolution With Denoising Diffusion : Proof of Concept**|Grégoire Francisco et.al.|[2410.20843v1](http://arxiv.org/abs/2410.20843v1)|[link](https://github.com/gfrancisco20/video_diffusion)|
-|**2024-10-28**|**Interplanetary Rotation of 2021 December 4 CME**|Mengxuan Ma et.al.|[2410.20803v1](http://arxiv.org/abs/2410.20803v1)|null|
-|**2024-10-27**|**Three-part structure of solar coronal mass ejection observed in low coronal signatures of Solar Orbiter**|Tatiana Podladchikova et.al.|[2410.20603v1](http://arxiv.org/abs/2410.20603v1)|null|
-|**2024-10-25**|**Amoeba: An AGN Model of Optical Emissions Beyond steady-state Accretion discs**|Henry Best et.al.|[2410.19630v1](http://arxiv.org/abs/2410.19630v1)|[link](https://github.com/henry-best-01/amoeba)|
-|**2024-10-24**|**Enhanced Peak and Extended Cooling of the Extreme-ultraviolet Late Phase in a Confined Solar Flare**|Shihan Li et.al.|[2410.18801v1](http://arxiv.org/abs/2410.18801v1)|null|
-|**2024-10-24**|**Estimating early coronal mass ejection propagation direction with DIRECD during the severe May 8 and follow-up June 8, 2024 events**|Shantanu Jain et.al.|[2410.18549v1](http://arxiv.org/abs/2410.18549v1)|null|
-|**2024-10-24**|**Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equations**|Joshua Fagin et.al.|[2410.18423v2](http://arxiv.org/abs/2410.18423v2)|[link](https://github.com/JFagin/Quasar_ML)|
-|**2024-10-23**|**Nested active regions anchor the heliospheric current sheet and stall the reversal of the coronal magnetic field**|Adam J. Finley et.al.|[2410.18244v1](http://arxiv.org/abs/2410.18244v1)|null|
-|**2024-10-23**|**The physical properties of Cluster Chains**|Laura Posch et.al.|[2410.18080v1](http://arxiv.org/abs/2410.18080v1)|null|
-|**2024-10-22**|**From bubbles to clusters: Multiple solutions to the Allen--Cahn system**|João Henrique de Andrade et.al.|[2410.17026v1](http://arxiv.org/abs/2410.17026v1)|null|
-|**2024-10-22**|**Optical optimization of a multi-slit extreme ultraviolet spectrograph for global solar corona diagnostics**|Yufei Feng et.al.|[2410.16637v1](http://arxiv.org/abs/2410.16637v1)|null|
-|**2024-10-21**|**Observing the evolution of the Sun's global coronal magnetic field over eight months**|Zihao Yang et.al.|[2410.16555v1](http://arxiv.org/abs/2410.16555v1)|null|
-|**2024-10-21**|**Multimodal Flare Forecasting with Deep Learning**|Grégoire Francisco et.al.|[2410.16116v1](http://arxiv.org/abs/2410.16116v1)|null|
-|**2024-10-21**|**High-resolution Observations of Clustered Dynamic Extreme-Ultraviolet Bright Tadpoles near the Footpoints of Corona Loops**|Rui Wang et.al.|[2410.15789v1](http://arxiv.org/abs/2410.15789v1)|null|
-|**2024-10-21**|**Effect of Magnetic Field on the Formation of Radiatively Inefficient Accretion Flow around Black Holes**|Anish Sarkar et.al.|[2410.15647v2](http://arxiv.org/abs/2410.15647v2)|null|
+|**2024-11-06**|**Temporal and chromatic variation of polarized scattered light in the outer disk of PDS 70**|J. Ma et.al.|[2411.04091v1](http://arxiv.org/abs/2411.04091v1)|null|
+|**2024-11-06**|**Limits to dynamic range in GHz-THz single-dish planetary spectra**|J S Greaves et.al.|[2411.04078v1](http://arxiv.org/abs/2411.04078v1)|null|
+|**2024-11-06**|**$Λ$CDM-like evolution in Einstein-scalar-Gauss-Bonnet gravity**|Miguel A. S. Pinto et.al.|[2411.04066v1](http://arxiv.org/abs/2411.04066v1)|null|
+|**2024-11-06**|**Astrophysical constraints on color-superconducting phases in compact stars within the RG-consistent NJL model**|Hosein Gholami et.al.|[2411.04064v1](http://arxiv.org/abs/2411.04064v1)|null|
+|**2024-11-06**|**Predicting and Publishing Accurate Imbalance Prices Using Monte Carlo Tree Search**|Fabio Pavirani et.al.|[2411.04011v1](http://arxiv.org/abs/2411.04011v1)|null|
+|**2024-11-06**|**Half a Million Binary Stars identified from the low resolution spectra of LAMOST**|Yingjie Jing et.al.|[2411.03994v1](http://arxiv.org/abs/2411.03994v1)|null|
+|**2024-11-06**|**The crucial discovery of thermonuclear X-ray bursts: never throw away old data!**|Erik Kuulkers et.al.|[2411.03911v1](http://arxiv.org/abs/2411.03911v1)|null|
+|**2024-11-06**|**Hidden Cooling Flows in Elliptical Galaxies**|L. R. Ivey et.al.|[2411.03864v1](http://arxiv.org/abs/2411.03864v1)|null|
+|**2024-11-06**|**ALMA Spectral Survey of An eruptive Young star, V883 Ori (ASSAY): II. Freshly Sublimated Complex Organic Molecules (COMs) in the Keplerian Disk**|Jae-Hong Jeong et.al.|[2411.03826v1](http://arxiv.org/abs/2411.03826v1)|null|
+|**2024-11-06**|**Uncovering the structure and kinematics of the ionized core of M\,2-9 with ALMA**|C. Sánchez Contreras et.al.|[2411.03825v1](http://arxiv.org/abs/2411.03825v1)|null|
+|**2024-11-06**|**Unveiling the Binary Nature of NGC 2323**|Songmei Qin et.al.|[2411.03787v1](http://arxiv.org/abs/2411.03787v1)|null|
+|**2024-11-06**|**Deciphering the Evolution of Thermodynamic Properties and their Connection to the Global Kinematics of High-Speed Coronal Mass Ejections Using FRIS Model**|Soumyaranjan Khuntia et.al.|[2411.03639v1](http://arxiv.org/abs/2411.03639v1)|null|
+|**2024-11-06**|**Triple-$α$ reaction rates below $T_9=3$ by a non-adiabatic three-body model**|M. Katsuma et.al.|[2411.03600v1](http://arxiv.org/abs/2411.03600v1)|null|
+|**2024-11-06**|**Evolutionary states and triplicity of four massive semi-detached binaries with long-term decreasing orbital periods in the LMC**|Fu-Xing Li et.al.|[2411.03592v1](http://arxiv.org/abs/2411.03592v1)|null|
+|**2024-11-05**|**Redshifting the Study of Cold Brown Dwarfs and Exoplanets: the Mid-Infrared Wavelength Region as an Indicator of Surface Gravity and Mass**|S. K. Leggett et.al.|[2411.03549v1](http://arxiv.org/abs/2411.03549v1)|null|
+|**2024-11-05**|**Assessing the impact of uniform rotation on the structure of neutron stars**|Marc Salinas et.al.|[2411.03490v1](http://arxiv.org/abs/2411.03490v1)|null|
+|**2024-11-05**|**A high resolution simulation of protoplanetary disk turbulence driven by the vertical shear instability**|Karim Shariff et.al.|[2411.03467v1](http://arxiv.org/abs/2411.03467v1)|null|
+|**2024-11-05**|**Intrinsic inverse band gap versus polarization relation in ferroelectric materials**|Nicolás Forero-Correa et.al.|[2411.03462v1](http://arxiv.org/abs/2411.03462v1)|null|
+|**2024-11-05**|**Stellar Coronagraphy**|Eugene Serabyn et.al.|[2411.03457v1](http://arxiv.org/abs/2411.03457v1)|null|
+|**2024-11-05**|**Host-star and exoplanet composition: Polluted white dwarf reveals depletion of moderately refractory elements in planetary material**|Claudia Aguilera-Gómez et.al.|[2411.03454v1](http://arxiv.org/abs/2411.03454v1)|null|
+|**2024-11-05**|**Formation of Terrestrial Planets**|Matthew S. Clement et.al.|[2411.03453v1](http://arxiv.org/abs/2411.03453v1)|null|
+|**2024-11-05**|**A 3D Simulation of a Type II-P Supernova: from Core Bounce to Beyond Shock Breakout**|David Vartanyan et.al.|[2411.03434v1](http://arxiv.org/abs/2411.03434v1)|null|
+|**2024-11-05**|**Rational Design Heterobilayers Photocatalysts for Efficient Water Splitting Based on 2D Transition-Metal Dichalcogenide and Their Janus**|Nguyen Tran Gia Bao et.al.|[2411.03396v1](http://arxiv.org/abs/2411.03396v1)|null|
+|**2024-11-05**|**Optical evolution of AT 2024wpp: the high-velocity outflows in Cow-like transients are consistent with high spherical symmetry**|M. Pursiainen et.al.|[2411.03272v1](http://arxiv.org/abs/2411.03272v1)|null|
+|**2024-11-05**|**Astrophysical Properties of the Sirius Binary System Modeled with MESA**|Momin Y. Khan et.al.|[2411.03267v1](http://arxiv.org/abs/2411.03267v1)|null|
+|**2024-11-05**|**Suppression of Phase Separation in AlGaInAs Compositionally Graded Buffers for 1550 nm Photovoltaic Converters on GaAs**|Kevin L. Schulte et.al.|[2411.03218v1](http://arxiv.org/abs/2411.03218v1)|null|
+|**2024-11-05**|**JWST COMPASS: The first near- to mid-infrared transmission spectrum of the hot super-Earth L 168-9 b**|Munazza K. Alam et.al.|[2411.03154v1](http://arxiv.org/abs/2411.03154v1)|null|
+|**2024-11-05**|**A comparison of solar and stellar coronagraphs that make use of external occulters**|Claude Aime et.al.|[2411.03144v1](http://arxiv.org/abs/2411.03144v1)|null|
+|**2024-11-05**|**Red giants evolutionary status determination: the complete Kepler catalog**|M. Vrard et.al.|[2411.03101v1](http://arxiv.org/abs/2411.03101v1)|null|
+
+### Sun
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06**|**Half a Million Binary Stars identified from the low resolution spectra of LAMOST**|Yingjie Jing et.al.|[2411.03994v1](http://arxiv.org/abs/2411.03994v1)|null|
+|**2024-11-06**|**$B\to K\bar K(πη)h$ decays in the presence of isovector scalar resonances $a_0(980,1450)$**|Si-Yang Wang et.al.|[2411.03968v1](http://arxiv.org/abs/2411.03968v1)|null|
+|**2024-11-06**|**Can Custom Models Learn In-Context? An Exploration of Hybrid Architecture Performance on In-Context Learning Tasks**|Ryan Campbell et.al.|[2411.03945v1](http://arxiv.org/abs/2411.03945v1)|null|
+|**2024-11-06**|**Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination**|Dingjie Song et.al.|[2411.03823v1](http://arxiv.org/abs/2411.03823v1)|null|
+|**2024-11-06**|**VQA$^2$:Visual Question Answering for Video Quality Assessment**|Ziheng Jia et.al.|[2411.03795v1](http://arxiv.org/abs/2411.03795v1)|null|
+|**2024-11-06**|**Magnetic order induced truly chiral phonons in a ferromagnetic Weyl semimetal**|Mengqian Che et.al.|[2411.03754v1](http://arxiv.org/abs/2411.03754v1)|null|
+|**2024-11-06**|**Automating Exploratory Proteomics Research via Language Models**|Ning Ding et.al.|[2411.03743v1](http://arxiv.org/abs/2411.03743v1)|null|
+|**2024-11-06**|**Multi-Modal Intelligent Channel Modeling: A New Modeling Paradigm via Synesthesia of Machines**|Lu Bai et.al.|[2411.03711v1](http://arxiv.org/abs/2411.03711v1)|null|
+|**2024-11-06**|**High-Dimensional Operator Learning for Molecular Density Functional Theory**|Jinni Yang et.al.|[2411.03698v1](http://arxiv.org/abs/2411.03698v1)|null|
+|**2024-11-06**|**Imagined Potential Games: A Framework for Simulating, Learning and Evaluating Interactive Behaviors**|Lingfeng Sun et.al.|[2411.03669v1](http://arxiv.org/abs/2411.03669v1)|null|
+|**2024-11-06**|**Deciphering the Evolution of Thermodynamic Properties and their Connection to the Global Kinematics of High-Speed Coronal Mass Ejections Using FRIS Model**|Soumyaranjan Khuntia et.al.|[2411.03639v1](http://arxiv.org/abs/2411.03639v1)|null|
+|**2024-11-06**|**Constraints and detection capabilities of GW polarizations with space-based detectors in different TDI combinations**|Jie Wu et.al.|[2411.03631v1](http://arxiv.org/abs/2411.03631v1)|null|
+|**2024-11-06**|**StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding**|Junming Lin et.al.|[2411.03628v1](http://arxiv.org/abs/2411.03628v1)|null|
+|**2024-11-06**|**Evolutionary states and triplicity of four massive semi-detached binaries with long-term decreasing orbital periods in the LMC**|Fu-Xing Li et.al.|[2411.03592v1](http://arxiv.org/abs/2411.03592v1)|null|
+|**2024-11-05**|**Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset**|Yingzi Ma et.al.|[2411.03554v1](http://arxiv.org/abs/2411.03554v1)|[link](https://github.com/safolab-wisc/fiubench)|
+|**2024-11-05**|**Two-Stage Pretraining for Molecular Property Prediction in the Wild**|Kevin Tirta Wijaya et.al.|[2411.03537v1](http://arxiv.org/abs/2411.03537v1)|null|
+|**2024-11-05**|**Model-based Deep Learning for QoS-Aware Rate-Splitting Multiple Access Wireless Systems**|Hanwen Zhang et.al.|[2411.03507v1](http://arxiv.org/abs/2411.03507v1)|null|
+|**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
+|**2024-11-05**|**A Traffic Prediction-Based Individualized Driver Warning System to Reduce Red Light Violations**|Suiyi He et.al.|[2411.03271v1](http://arxiv.org/abs/2411.03271v1)|null|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250v1](http://arxiv.org/abs/2411.03250v1)|null|
+|**2024-11-05**|**User Centric Semantic Communications**|Xunze Liu et.al.|[2411.03127v1](http://arxiv.org/abs/2411.03127v1)|null|
+|**2024-11-05**|**Self-supervised cross-modality learning for uncertainty-aware object detection and recognition in applications which lack pre-labelled training data**|Irum Mehboob et.al.|[2411.03082v1](http://arxiv.org/abs/2411.03082v1)|null|
+|**2024-11-05**|**The chemical evolution of the Milky Way thin disk using solar twins**|Anastasiia Plotnikova et.al.|[2411.03067v1](http://arxiv.org/abs/2411.03067v1)|null|
+|**2024-11-05**|**GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details**|Zhongjin Luo et.al.|[2411.03047v1](http://arxiv.org/abs/2411.03047v1)|null|
+|**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972v1](http://arxiv.org/abs/2411.02972v1)|null|
+|**2024-11-05**|**MuCol Milestone Report No. 5: Preliminary Parameters**|Carlotta Accettura et.al.|[2411.02966v1](http://arxiv.org/abs/2411.02966v1)|null|
+|**2024-11-05**|**Observation of quantum-classical transition behavior of LGI in a dissipative quantum gas**|Qinxuan Peng et.al.|[2411.02910v1](http://arxiv.org/abs/2411.02910v1)|null|
+|**2024-11-05**|**AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI**|Haoan Xu et.al.|[2411.02867v1](http://arxiv.org/abs/2411.02867v1)|null|
+|**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793v1](http://arxiv.org/abs/2411.02793v1)|null|
+|**2024-11-05**|**Identifying nonlinear relations among random variables: A network analytic approach**|Lindley R. Slipetz et.al.|[2411.02763v1](http://arxiv.org/abs/2411.02763v1)|null|
