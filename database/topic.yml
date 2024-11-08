@@ -1,5 +1,5 @@
 "Solar and Stellar AstroPhysics":
-  "Recent Papers": '"cat:astro-ph.SR AND (abs:sun OR abs:solar OR abs:reconnection OR abs:prominence OR abs:filament OR abs:sigmoid OR abs:heating)"'
+  "Recent Papers": '"cat:astro-ph.SR AND (abs:sun OR abs:solar OR abs:prominence OR abs:filament OR abs:sigmoid OR abs:heating OR abs:sunspot OR abs:granul)"'
 
 "Space Physics":
    "Recent Papers": '"cat:physics.space-ph"'
