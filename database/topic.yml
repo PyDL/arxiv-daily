@@ -1,2 +1,2 @@
 "Solar and Interplanetary Physics":
-  "Corona": '"cat:astro-ph.SR"+AND+"Corona"'
+  "Corona": '"cat:astro-ph.SR"AND"abs:Corona"'
