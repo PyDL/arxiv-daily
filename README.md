@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-11-08 11:39:30 Asia/Shanghai
+ Automated deployment @ 2024-11-08 11:40:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -35,9 +35,9 @@
 |**2024-11-01**|**Stellar surface information from the Ca II H&K lines -- II. Defining better activity proxies**|M. Cretignier et.al.|[2411.00557v1](http://arxiv.org/abs/2411.00557v1)|null|
 |**2024-11-01**|**Heavy element abundances from a universal primordial distribution**|G. Roepke et.al.|[2411.00535v1](http://arxiv.org/abs/2411.00535v1)|null|
 |**2024-11-01**|**Spatial distributions of EUV brightenings in the quiet-Sun**|C. J. Nelson et.al.|[2411.00467v1](http://arxiv.org/abs/2411.00467v1)|null|
+|**2024-11-01**|**Evaluation of Sunspot Areas Derived by Automated Sunspot-Detection Methods**|Yoichiro Hanaoka et.al.|[2411.00415v1](http://arxiv.org/abs/2411.00415v1)|null|
 |**2024-10-31**|**A generative model for Gaia astrometric orbit catalogs: selection functions for binary stars, giant planets, and compact object companions**|Kareem El-Badry et.al.|[2411.00088v1](http://arxiv.org/abs/2411.00088v1)|null|
 |**2024-10-31**|**Deep Search for a scattered light dust halo around Vega with the Hubble Space Telescope**|Schuyler G. Wolff et.al.|[2410.24042v1](http://arxiv.org/abs/2410.24042v1)|null|
-|**2024-10-31**|**An Overview of Solar Orbiter Observations of Interplanetary Shocks in Solar Cycle 25**|D. Trotta et.al.|[2410.24007v1](http://arxiv.org/abs/2410.24007v1)|null|
 
 ## Space Physics
 
