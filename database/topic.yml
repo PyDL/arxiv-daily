@@ -1,5 +1,2 @@
-"Solar Physics":
-  "Sun": '"Chromosphere"OR"Photosphere"OR"Solar Eruption"'
-
-"Interplanetary Space":
-  "Space": '"Solar Energetic Particle"OR"Space Weather"OR"Geomagnetic Storm"'
+"Solar and Interplanetary Physics":
+  "Sun": '"Chromosphere"OR"Photosphere"OR"Solar Eruption"OR"Solar Energetic Particle"OR"Space Weather"OR"Geomagnetic Storm"'
