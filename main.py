@@ -271,7 +271,7 @@ class _OverloadTasks:
     def _generate_markdown_table_content(self, paper: dict):
         paper["publish_time"] = f"**{paper['publish_time']}**"
         paper["title"] = f"**{paper['title']}**"
-        _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"])
+        _pdf = self._set_markdown_hyperlink(text=paper["id"], link=paper["paper_url"].repalce("abs", "pdf"))
         _repo = (
             self._set_markdown_hyperlink(text="link", link=paper["repo"])
             if "http" in paper["repo"]
