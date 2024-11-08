@@ -1,5 +1,2 @@
 "Solar and Interplanetary Physics":
-  "Solar Atmosphere": '"Solar Atmosphere"'
-  "Space Weather": '"Space Weather"'
-  "Magnetic Reconnection": '"Magnetic Reconnection"'
-  "Coronal Heating": '"Coronal Heating"'
+  "Solar Atmosphere": '"cat:astro-ph.SR"AND"Solar Atmosphere"'
