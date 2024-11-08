@@ -1,0 +1,6 @@
+"Solar Physics":
+  "Corona": '"Corona"'
+  "Chromosphere": '"Chromosphere"'
+
+"Interplanetary":
+  "CME": '"CME"OR"Coronal Mass Ejection"OR"Flare"'
