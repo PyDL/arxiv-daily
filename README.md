@@ -1,7 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2024-11-08 11:50:37 Asia/Shanghai
-> Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
-> You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
+ Automated deployment @ 2024-11-08 13:21:17 Asia/Shanghai
+> This project is a modification from [arxiv-daily](https://github.com/beiyuouo/arxiv-daily/). Topics and keywords can be modified in [`topic.yml`](https://github.com/pydl/arxiv-daily/blob/main/database/topic.yml).
+> Historical data are stored in [storage](https://github.com/pydl/arxiv-daily/blob/main/database/storage).
 
 ## Solar and Stellar AstroPhysics
 
