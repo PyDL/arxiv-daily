@@ -1,4 +1,4 @@
 # arxiv-daily
- Automated deployment @ 2026-04-09 10:23:41 Asia/Shanghai
+ Automated deployment @ 2026-04-09 21:27:37 Asia/Shanghai
 > This project is a modification from [arxiv-daily](https://github.com/beiyuouo/arxiv-daily/). Topics and keywords can be modified in [`topic.yml`](https://github.com/pydl/arxiv-daily/blob/main/database/topic.yml).
 > Historical data are stored in [storage](https://github.com/pydl/arxiv-daily/blob/main/database/storage).
